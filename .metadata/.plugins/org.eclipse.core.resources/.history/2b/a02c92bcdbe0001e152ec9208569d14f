@@ -1,0 +1,5 @@
+package day01;
+
+public class Ques10 {
+	//nextLine()은 공백 포함해서 가능
+}

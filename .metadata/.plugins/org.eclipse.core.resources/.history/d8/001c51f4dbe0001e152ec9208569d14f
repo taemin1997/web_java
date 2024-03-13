@@ -1,0 +1,7 @@
+package day01;
+
+public class Ques7 {
+//	String str = "123";
+//		->
+//		int num = (Integer.parseInt(str));
+}

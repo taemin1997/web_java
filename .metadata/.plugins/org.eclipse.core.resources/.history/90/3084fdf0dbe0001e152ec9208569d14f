@@ -1,0 +1,6 @@
+package day01;
+
+public class Ques6 {
+	//java 파일 작성 -> javac가 class 파일로 컴파일링 -> 
+	//class 파일 java가 해석 후 실행
+}
